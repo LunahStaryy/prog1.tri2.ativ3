@@ -1,7 +1,7 @@
 # prog1.tri2.ativ3
 
 
-Escreva trechos de códigos que justiquem a necessidade da existencia dos temas abaixo em a objetos, se necessário compare com programçaõ funcional para justificativa, adicione ao topo de seus arquivos comentários que justifiquem a abordagem tomada na solução (para cada tópico faça duas soluções diferentes):
+Escreva trechos de códigos que justiquem a necessidade da existência dos temas abaixo em a objetos, se necessário compare com programação funcional para justificativa, adicione ao topo de seus arquivos comentários que justifiquem a abordagem tomada na solução (para cada tópico faça duas soluções diferentes):
 
 ## Classes e objetos
 
