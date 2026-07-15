@@ -46,7 +46,7 @@ https://www.typescriptlang.org/play/?#code/PQKgBACgrgRgNgSwMYBowAcBOCBuBDAFwFM0s
 ...
 
 ## Propriedades somente leitura (readonly)
-
+https://www.typescriptlang.org/play/?#code/PQKgBASgpghgJmA9gOwDYE8BQBRArmXAFwEtViAvRMOKAZ1pjAAcAnRV4qOeKMW3gI64obMEN64AtmBiEWxAEZEqyGFSaJ6jfixmpCI+FRphkUZAAspjSTDPEWMADQym5mLTBk4iAHSYQYExMAGNUD08AYRgAM14Ab0wwZLAWWB80dDBbFhCYAC4+OWJkAHMklJCUWjlcEMJEFgAKHLzCmvkygEowRJT+sEILYlpfVsYAXmyYXJgK5IBfTCXMVChCMDyFRCqwKbMAdzBouKaAImjtqrOu1fXmUjU90ygjk6hzgAVHxBvMYGAAAFCLQALTEUrIRpQTBMH5jGZ5Z5nABWdigDl+-2AYAAgkJiGAAG4wQncXQiUQaEYyZhsDhcHhgACXqXSSEywUwQA
 ...
 
 ## Métodos estáticos (static)
